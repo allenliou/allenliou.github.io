@@ -1,0 +1,15 @@
+personal website design: 
+vertically scrollable 
+
+1. introduction/summary page
+
+2. about me
+    a. interests
+    b. hobbies
+    c. school
+
+3. work experience
+
+4. volunteer experience
+
+5. contact info
